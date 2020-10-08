@@ -7,3 +7,9 @@ p.fancy{
 color:#000;
 font-style: oblique;
 }
+  
+h2{
+background-color:#1DA4EF;
+color:#fff; font-family:"Comic Sans MS";
+font-size:3em;
+}
