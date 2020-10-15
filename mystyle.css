@@ -1,11 +1,11 @@
 h1{
 background-color:#DD148B;
 color:#0DE11C; font-family:"Comic Sans MS";
-font-size:3em;
+font-size:60px;
 }
 p.fancy{
 color:#000;
-font-style: oblique;
+font-style: oblique; font-size: 40px;
 }
   
 h2{
@@ -19,3 +19,4 @@ background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
 font-size:3em;
 }
+page1{background-color:#DD148B;}
