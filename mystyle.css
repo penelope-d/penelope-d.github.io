@@ -20,3 +20,8 @@ color:#fff; font-family:"Comic Sans MS";
 font-size:3em;
 }
 page1{background-color:#DD148B;}
+
+ul.nav.li{displau:inline; padding:10px; width:60px;}
+
+ul.nav.li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
+ul.nav.li a:hover{background-color:#16BA10;}
