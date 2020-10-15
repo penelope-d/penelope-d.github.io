@@ -21,17 +21,9 @@ font-size:3em;
 }
 .page-id-1{background-color:#DD148B;}
 
-ul.nav.li{displau:inline; padding:10px; width:60px;}
+ul.nav.li{display:inline; padding:10px; width:60px;}
 
 ul.nav.li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
 ul.nav.li a:hover{background-color:#16BA10;}
 .page-id-3{background-color:#1DA4EF;}
-li1{color:#FF0083;>
-  li2{color:#E40808;}
-  li3{color:#FF2700;}
-  li4{color:#FFE10D;}
-  li5{color:#39DA00;}
-  li6{color:#007928;}
-  li7{color:#061ED2;}
-  li8{color:#631FFC;}
-  li9{color:#9A06ED;}
+
