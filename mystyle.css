@@ -32,9 +32,9 @@ body {
 .class-for-video {
     color:#00B826;
 }
-ul.nav.li{display:inline; padding:10px; width:60px;}
+ul.nav li{display:inline; padding:10px; width:60px;}
 
-ul.nav.li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
-ul.nav.li a:hover{background-color:#16BA10;}
+ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
+ul.nav li a:hover{background-color:#16BA10;}
 
 
