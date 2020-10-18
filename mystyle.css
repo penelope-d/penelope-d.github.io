@@ -19,9 +19,9 @@ background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
 font-size:3em; font-size:60px;
 }
-body {
+<style> body {
     background-color:FDE500;
-}
+} </style>
 
 .class-for-index {
     color:#DD148B;
