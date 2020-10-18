@@ -20,14 +20,21 @@ color:#fff; font-family:"Comic Sans MS";
 font-size:3em; font-size:60px;
 }
 body {
-    background-color:#DD148B;
+    background-color:FDE500;
 }
 
-
+.class-for-index {
+    color:#DD148B;
+}
+.class-for-list {
+    color:#1DA4EF;
+}
+.class-for-video {
+    color:#00B826;
+}
 ul.nav.li{display:inline; padding:10px; width:60px;}
 
 ul.nav.li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
 ul.nav.li a:hover{background-color:#16BA10;}
-.page-id-3{background-color:#1DA4EF;}
-.page-id-2{background-color::#00B826;}
+
 
