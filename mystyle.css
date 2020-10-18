@@ -19,7 +19,10 @@ background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
 font-size:3em; font-size:60px;
 }
-.page-id-1{background-color:#DD148B;}
+body {
+    background-color:#DD148B;
+}
+
 
 ul.nav.li{display:inline; padding:10px; width:60px;}
 
