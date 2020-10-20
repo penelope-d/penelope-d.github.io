@@ -47,4 +47,13 @@ ul.nav li{display:inline; padding:10px; width:60px;}
 ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
 ul.nav li a:hover{background-color:#16BA10;}
 
-
+th {
+  text-align: left;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid black;
+}
