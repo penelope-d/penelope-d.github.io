@@ -7,13 +7,13 @@ p.fancy{
 color:#000;
 font-style: oblique; font-size: 40px; text-align: center
 }
-p{text-align: center; font-size:40px}
+p{text-align: center; font-size:25px}
 h2{
 background-color:#1DA4EF;
 color:#fff; font-family:"Comic Sans MS";
 font-size:3em;font-size:60px; text-align: center
 }
-li{ font-family:"Comic Sans MS"; text-align: center}
+li{ font-family:"Comic Sans MS"; text-align: center: font-size:25px}
 ol{text-align: center}
 h3{
 background-color:#00B826;
