@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cmpt 104</title>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body class="class-for-lunafacts">
+  <link rel="stylesheet" href="mystyle.css">
+ <h5>Luna Facts</h5>
+ <ul class="nav">
+ <li><a href="index.html">Return to Luna's World</a></li>
+ <table>
+  <tr>
+    <th>Age</th>
+    <th>Breed</th>
+    <th>Favorite snack</th>
+    <th> Favorite game</th>
+    <th> Favorite time to run around screaming and jumping off furniture</th>
+    <th> Dislikes </th>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Tabby</td>
+    <td>Tuna Juice</td>
+    <td> Chase the string </td>
+    <td> 4 am </td>
+    <td> Being picked up, Empty food dish, and Closed doors </td>
+  </tr>
+</table></ul>
+</body>
+</html>
