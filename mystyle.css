@@ -14,10 +14,7 @@ color:#fff; font-family:"Comic Sans MS";
 font-size:3em;font-size:60px; text-align: center
 }
 li{ font-family:"Comic Sans MS"; text-align: center: font-size:30px}
-.ol {
-  text-align: center;
-  list-style-position: inside;
-}
+
 h3{
 background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
@@ -48,10 +45,7 @@ body {
 }
 ul.nav li{display:inline; padding:10px; margin-left: auto;
   margin-right: auto; width:60px;}
-.container ul { max-width: 100px;
-  margin-right: auto;
-  margin-left: auto;
-}
+
 
 ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
 ul.nav li a:hover{background-color:#16BA10;}
