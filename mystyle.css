@@ -1,33 +1,36 @@
 h1{
 background-color:#DD148B;
 color:#0DE11C; font-family:"Comic Sans MS";
-font-size:60px; text-align: center
+font-size:75px; text-align: center
 }
 p.fancy{
 color:#000;
 font-style: oblique; font-size: 40px; text-align: center
 }
-p{text-align: center; font-size:25px}
+
 h2{
 background-color:#1DA4EF;
 color:#fff; font-family:"Comic Sans MS";
 font-size:3em;font-size:60px; text-align: center
 }
-li{ font-family:"Comic Sans MS"; text-align: center: font-size:25px}
-ol{text-align: center}
+li{ font-family:"Comic Sans MS"; text-align: center: font-size:30px}
+.ol {
+  text-align: center;
+  list-style-position: inside;
+}
 h3{
 background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
-font-size:3em; font-size:60px; text-align: center
+font-size:3em; font-size:60px; 
 }
 h4{
   background-color:#FDE500;
 color:#fff; font-family:"Comic Sans MS";
-  font-size:3em;font-size:60px; text-align: center}
+  font-size:3em;font-size:60px; }
 h5{
   background-color:#FD4900;
 color:#fff; font-family:"Comic Sans MS";
-  font-size:3em;font-size:60px; text-align: center}
+  font-size:3em;font-size:60px; }
 body {
     background-color:#FDE500;
 } 
