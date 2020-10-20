@@ -48,6 +48,10 @@ body {
 }
 ul.nav li{display:inline; padding:10px; margin-left: auto;
   margin-right: auto; width:60px;}
+.container ul { max-width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none;}
 ul.nav li a:hover{background-color:#16BA10;}
@@ -69,6 +73,5 @@ img {
   margin-right: auto;
   width: 20%; height: 40%;
 }
-video{  margin: auto;
-  width: 30%;
-  padding: 10px;}
+
+
