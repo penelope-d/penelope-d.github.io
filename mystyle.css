@@ -23,6 +23,10 @@ h4{
   background-color:#FDE500;
 color:#fff; font-family:"Comic Sans MS";
   font-size:3em;font-size:60px;}
+h5{
+  background-color:#FD4900;
+color:#fff; font-family:"Comic Sans MS";
+  font-size:3em;font-size:60px;}
 body {
     background-color:#FDE500;
 } 
@@ -34,6 +38,9 @@ body {
 }
 .class-for-video {
     background-color:#00B826;
+}
+.class-for-lunafacts {
+    background-color:#FD4900;
 }
 ul.nav li{display:inline; padding:10px; width:60px;}
 
