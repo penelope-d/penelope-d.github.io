@@ -1,32 +1,32 @@
 h1{
 background-color:#DD148B;
 color:#0DE11C; font-family:"Comic Sans MS";
-font-size:60px;
+font-size:60px; text-align: center
 }
 p.fancy{
 color:#000;
-font-style: oblique; font-size: 40px;
+font-style: oblique; font-size: 40px; text-align: center
 }
-  
+p{text-align: center}
 h2{
 background-color:#1DA4EF;
 color:#fff; font-family:"Comic Sans MS";
-font-size:3em;font-size:60px;
+font-size:3em;font-size:60px; text-align: center
 }
-li{ font-family:"Comic Sans MS";}
+li{ font-family:"Comic Sans MS"; text-align: center}
 h3{
 background-color:#00B826;
 color:#fff; font-family:"Comic Sans MS";
-font-size:3em; font-size:60px;
+font-size:3em; font-size:60px; text-align: center
 }
 h4{
   background-color:#FDE500;
 color:#fff; font-family:"Comic Sans MS";
-  font-size:3em;font-size:60px;}
+  font-size:3em;font-size:60px; text-align: center}
 h5{
   background-color:#FD4900;
 color:#fff; font-family:"Comic Sans MS";
-  font-size:3em;font-size:60px;}
+  font-size:3em;font-size:60px; text-align: center}
 body {
     background-color:#FDE500;
 } 
@@ -61,4 +61,9 @@ td {
   height: 50px;
   vertical-align: bottom;
 }
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
