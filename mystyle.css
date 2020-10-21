@@ -3,11 +3,6 @@ background-color:#DD148B;
 color:#0DE11C; font-family:"Comic Sans MS";
 font-size:75px; text-align: center
 }
-p.fancy{
-color:#000;
-font-style: oblique; font-size: 40px; text-align: center
-}
-p{ text-align: center; font-size: 30px}
 h2{
 background-color:#1DA4EF;
 color:#fff; font-family:"Comic Sans MS";
@@ -26,6 +21,11 @@ h5{
   background-color:#FD4900;
 color:#fff; font-family:"Comic Sans MS";
   font-size:3em;font-size:60px; }
+p.fancy{
+color:#000;
+font-style: oblique; font-size: 40px; text-align: center
+}
+p{ text-align: center; font-size: 30px}
 li{ font-family:"Comic Sans MS"; text-align: center; font-size:30px}
 .center {
   text-align: center;
@@ -49,10 +49,10 @@ body {
     background-color:#FD4900;
 }
 ul.nav li{display:inline; padding:10px; margin-left: auto;
-  margin-right: auto; width:40px; }
+  margin-right: auto; width:30px; }
 
 
-ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none; text-align: center; justify-content: center}
+ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none; text-align: center; }
 ul.nav li a:hover{background-color:#16BA10;}
 
  
