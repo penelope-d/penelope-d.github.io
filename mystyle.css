@@ -49,11 +49,13 @@ body {
     background-color:#FD4900;
 }
 ul.nav li{display:inline; padding:10px; margin-left: auto;
-  margin-right: auto; width:40px;}
+  margin-right: auto; width:40px; justify-content: center;}
 
 
 ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none; text-align: center;}
 ul.nav li a:hover{background-color:#16BA10;}
+
+ 
 
 th, td {
   padding: 15px;
