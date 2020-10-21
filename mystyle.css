@@ -7,7 +7,7 @@ p.fancy{
 color:#000;
 font-style: oblique; font-size: 40px; text-align: center
 }
-
+p{ text-align: center}
 h2{
 background-color:#1DA4EF;
 color:#fff; font-family:"Comic Sans MS";
