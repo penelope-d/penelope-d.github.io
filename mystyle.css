@@ -48,8 +48,7 @@ body {
 .class-for-lunafacts {
     background-color:#FD4900;
 }
-ul.nav li{display:inline; padding:10px; margin-left: auto;
-  margin-right: auto; width:30px; }
+ul.nav li{display:inline; padding:10px; width:30px; }
 
 
 ul.nav li a{display:inlineblock; padding:10px; background-color:#0DE11C; color:#fff; text-decoration:none; text-align: center; }
